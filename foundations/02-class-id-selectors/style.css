@@ -1,0 +1,26 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.red{
+    background-color: rgb(255, 127, 127);
+}
+
+.red.one, .red.three{
+    font-size: 30px;
+}
+
+.red.two{
+    font-size: 50px;
+}
+
+#two{
+    color: blue;
+    font-size: 75px;
+}
+
+#four{
+    background-color: rgb(127, 255, 127);
+    font-size: 40px;
+    font-weight: 700;
+}
